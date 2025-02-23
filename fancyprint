@@ -1,0 +1,10 @@
+# Python program introducing f-string
+
+text1= 'Python'
+text2= 'f-string'
+text3= 'Curly Brackets'
+print(f"Fancy print in {text1} uses {text2}  and variable is embraced by {text3} .")
+
+name = 'Mike'
+age = 18
+print(f"Hi, My name is {name} and I'm {age} years old.")
